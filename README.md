@@ -1,4 +1,4 @@
-🔭 No momento, sou estudante do 3º período de Engenharia de Software na PUCPR. No momento trabalho na área de pesquisa científica em práticas de desenvolvimento de Software.
+🔭 No momento, sou estudante do 3º período de Engenharia de Software na PUCPR. No momento trabalho na área de desenvolvimento de sistemas ERP, PDV e Financeiro.
 
 👨🏻‍💻 O que me atrai na área da Tecnologia, é estar constantemente na fronteira do conhecimento humano.
 
