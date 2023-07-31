@@ -1,4 +1,4 @@
-🔭 No momento, sou estudante do 3º período de Engenharia de Software na PUCPR. No momento trabalho na área de desenvolvimento de sistemas ERP, PDV e Financeiro.
+🔭  Desenvolvedor Fullstack em sistemas ERP, PDV e Financeiro. No momento, sou estudante do 6º período de Engenharia de Software na PUCPR.
 
 👨🏻‍💻 O que me atrai na área da Tecnologia, é estar constantemente na fronteira do conhecimento humano.
 
