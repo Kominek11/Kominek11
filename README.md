@@ -1,9 +1,10 @@
-🔭  Desenvolvedor Fullstack. No momento, sou estudante do 6º período de Engenharia de Software na PUCPR.
 
-👨🏻‍💻 O que me atrai na área da Tecnologia, é estar constantemente na fronteira do conhecimento humano.
+🔭 Software Engineer specialized in Java and Spring Boot backend development.
 
-🌱 No momento, estou aprendendo diferentes bibliotecas e recursos de várias linguagens!
+👨🏻‍💻 What attracts me to technology is being constantly at the frontier of human knowledge and innovation.
 
-👯 Espero colaborar com trabalhos universitários dos meus colegas, bem como todos aqueles interessados em Programação.
+🌱 Currently deepening my expertise in cloud architecture, microservices patterns, and engineering best practices.
 
-🤔 Busco entender melhor as boas práticas em programação, bem como ela pode me ajudar a ser mais produtivo.
+👯 I'm eager to collaborate on challenging projects and share knowledge with fellow developers passionate about software craftsmanship.
+
+🤔 I'm focused on mastering clean code principles, TDD, and scalable architectures to build robust, maintainable systems.
